@@ -41,7 +41,8 @@ I'm **Daniela**, a Bioinformatician. I also have a Postgraduate Specialization i
 
 ##  GitHub Stats & Trackers
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielaccarvajall4&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielaccarvajall
+&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielaccarvajall&layout=compact&theme=radical)
 
 **Contribution Graph:**
