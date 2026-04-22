@@ -35,6 +35,7 @@ I'm **Daniela**, a Bioinformatician. I also have a Postgraduate Specialization i
 
 
 🔹 **Tools & Technologies**: Jupyter Lab, Git, PyMOL, Docker, Kubernetes, HPC, Pytorch, Tensorflow
+
 🔹 **Expertise Areas**: Data Structures & Algorithms, OOP, Bioinformatics, Database Systems, Machine Learning, Deep learning, Large language models. 
 
 ---
