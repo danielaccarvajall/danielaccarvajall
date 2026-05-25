@@ -1,7 +1,55 @@
-## 
+<h1 align="center">Hi, I'm Daniela Carvajal 👋</h1>
 
+<p align="center">
+Biologist → Statistics → Bioinformatics MSc @ University of Birmingham
+</p>
 
-I'm **Daniela**, a Bioinformatician. I also have a Postgraduate Specialization in Statistics and am currently pursuing an MSc. Bioinformatics. I have research experience in metabolic profiling and bioprospecting, with hands-on experience in chromatographic techniques (HPLC), spectrophotometric assays, mammalian cell culture, and cytotoxicity analysis. 
+<p align="center">
+Interested in computational biology, metabolomics, multi-omics, and data-driven health research.
+</p>
+
+---
+
+🔬 Current focus:
+- Bioinformatics
+- Data Analytics & Statistical Machine Learning
+- Metabolomics
+- Python & R
+- Computational Biology
+
+📍 Based in Birmingham, UK
+
+## About me
+
+I am a biologist with a specialization in statistics currently pursuing an MSc in Bioinformatics.
+
+My background combines experimental biology, metabolomics, and quantitative analysis, and I am interested in applying computational methods to understand biological systems and support translational research.
+
+I enjoy working at the intersection of:
+- 🧬 Omics data analysis
+- 📊 Statistical modelling
+- 🐍 Python and R
+- 🧪 Biological interpretation
+
+## Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,linux"/>
+
+</p>
+
+### Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- Statistics
+- Data Visualization
+
+### Bioinformatics
+- Metabolomics
+- Omics Data
+- Biological Data Analysis
 
 ##  Research & Experience
 
@@ -47,7 +95,6 @@ I'm **Daniela**, a Bioinformatician. I also have a Postgraduate Specialization i
 
 **Contribution Graph:**
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielaccarvajall&theme=react-dark)
-
 
 
 ##  Connect with Me
