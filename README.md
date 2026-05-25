@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniela Carvajal 👋</h1>
+<h1 align="center">Hi, I'm Daniela Carvajal </h1>
 
 <p align="center">
 Biologist → Statistics → Bioinformatics MSc @ University of Birmingham
@@ -68,30 +68,18 @@ I enjoy working at the intersection of:
 - Analyzed metabolic changes associated with imidacloprid exposure under controlled laboratory conditions.
 ---
 
-## GitHub Stats
+
+## GitHub Activity
 
 <p align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=danielaccarvajall&show_icons=true"/>
+src="https://github-readme-stats.vercel.app/api?username=danielaccarvajall&show_icons=true&hide=issues&hide_border=true"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaccarvajall&layout=compact"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaccarvajall&layout=compact&hide_border=true"/>
 
 </p>
-
-
-
-🔹 **Tools & Technologies**: Jupyter Lab, Git, PyMOL, Docker, Kubernetes, HPC, Pytorch, Tensorflow
-
-🔹 **Expertise Areas**: Data Structures & Algorithms, OOP, Bioinformatics, Database Systems, Machine Learning, Deep learning, Large language models. 
-
----
-
-##  GitHub Stats & Trackers
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielaccarvajall&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielaccarvajall&layout=compact&theme=radical)
 
 **Contribution Graph:**
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielaccarvajall&theme=react-dark)
