@@ -40,7 +40,7 @@ I enjoy working at the intersection of:
 | **Programming** | `Python`, `R`, `Bash` |
 | **Data Science** | `Pandas`, `NumPy`, `Scikit-learn`, `Data Visualization`, `Statistical Modeling`, `PyMOL`, `Machine Learning` |
 | **Bioinformatics** | `Transcriptomics (RNA-Seq)`, `Genomics (WGS/WES, Variant Calling, GWAS)`, `Metabolomics`, `Single-Cell Analysis`, `Systems Biology`, `Network Biology` |
-| **Infrastructure & Tools** | `Linux`, `Git`, `High-Performance Computing`, `Docker (Containerization)`, `Data Encryption (RSA, AES)` |
+| **Infrastructure & Tools** | `Linux`, `Git`, `High-Performance Computing`, `Docker (Containerization)`, `Data Encryption (RSA, AES)`, `Galaxy` |
 
 ##  Research & Experience
 
