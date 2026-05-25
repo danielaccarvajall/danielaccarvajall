@@ -74,13 +74,16 @@ I enjoy working at the intersection of:
 <p align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=danielaccarvajall&show_icons=true&hide_border=true"/>
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danielaccarvajall&show_icons=true"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaccarvajall&layout=compact&hide_border=true"/>
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielaccarvajall&layout=compact"/>
 
 </p>
 
+## Contributions
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielaccarvajall&hide_border=true)](https://github.com/danielaccarvajall)
 
 ##  Connect with Me
 
