@@ -69,17 +69,16 @@ I enjoy working at the intersection of:
 ---
 
 
-## GitHub Activity
+### 📈 GitHub Analytics
 
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danielaccarvajall&show_icons=true"/>
-
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielaccarvajall&layout=compact"/>
-
-</p>
+<div align="center">
+  <a href="https://github.com/danielaccarvajall">
+    <img src="https://github-readme-stats.vercel.app/api?username=danielaccarvajall&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=475569&icon_color=2563EB" height="180" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/danielaccarvajall">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaccarvajall&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=475569" height="180" alt="Top Languages"/>
+  </a>
+</div>
 
 ## Contributions
 
