@@ -74,7 +74,7 @@ I enjoy working at the intersection of:
 <p align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=danielaccarvajall&show_icons=true&hide=issues&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=danielaccarvajall&show_icons=true&hide_border=true"/>
 
 <img height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaccarvajall&layout=compact&hide_border=true"/>
