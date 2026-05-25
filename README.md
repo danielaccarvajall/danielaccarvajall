@@ -1,12 +1,15 @@
-<h1 align="center">Hi, I'm Daniela Carvajal </h1>
-
-<p align="center">
-Biologist → Statistics → Bioinformatics MSc @ University of Birmingham
-</p>
-
-<p align="center">
-Interested in computational biology, metabolomics, multi-omics, and data-driven health research.
-</p>
+<div align="center">
+  <h1>Hi, I'm Daniela Carvajal 🧬💻</h1>
+  <h3><i> Biologist → Statistics → Bioinformatics MSc </i></h3>
+  <p><b> Interested in computational biology, multi-omics, and data-driven health research.</b></p>
+  
+  <a href="https://www.linkedin.com/in/daniela-carvajal-9a3035222/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:danielacarolcarvajall@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
 
@@ -23,7 +26,7 @@ Interested in computational biology, metabolomics, multi-omics, and data-driven 
 
 I am a biologist with a specialization in statistics currently pursuing an MSc in Bioinformatics.
 
-My background combines experimental biology, metabolomics, and quantitative analysis, and I am interested in applying computational methods to understand biological systems and support translational research.
+My background combines experimental biology, omics, and quantitative analysis, and I am interested in applying computational methods to understand biological systems and support translational research.
 
 I enjoy working at the intersection of:
 - 🧬 Omics data analysis
@@ -39,22 +42,17 @@ I enjoy working at the intersection of:
 
 </p>
 
-### Data Science
-- Pandas
-- NumPy
-- Scikit-learn
-- Statistics
-- Data Visualization
-
-### Bioinformatics
-- Metabolomics
-- Omics Data
-- Biological Data Analysis
+| Category | Technologies |
+|---|---|
+|**Programming** | Python, R, Bash |
+| **Data Science** | Pandas, NumPy, Scikit-learn, Data Visualization, Statistical Modeling, PyMOL |
+| **Bioinformatics** | Transcriptomics (RNA-Seq), Genomics (WGS/WES, Variant Calling, GWAS), Metabolomics, Single-Cell Analysis |
+| **Infrastructure & Tools** | Linux, Git, High-Performance Computing, Docker (Containerization), Data Encryption (RSA, AES) |
 
 ##  Research & Experience
 
 ###  SECURE COMPUTE RESEARCHER, University of Birmingham (March 2026)
-- Collaborated in a multidisciplinary team to analyze health and defence datasets using High-Performance Computing (HPC), applying programming and data analysis skills.
+- Collaborated in a multidisciplinary team to analyze health and defence datasets using HPC, applying programming and data analysis skills.
 - Addressed security challenges in data-intensive environments, gaining practical experience in secure computing and problem-solving.
 
 ### RESEARCH ASSISTANT, University of Valle (Jun 2019 - Jul 2021)
@@ -68,26 +66,23 @@ I enjoy working at the intersection of:
 - Analyzed metabolic changes associated with imidacloprid exposure under controlled laboratory conditions.
 ---
 
-
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/danielaccarvajall">
-    <img src="https://github-readme-stats.vercel.app/api?username=danielaccarvajall&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=475569&icon_color=2563EB" height="180" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/danielaccarvajall">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaccarvajall&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=475569" height="180" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielaccarvajall&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
-## Contributions
+<br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielaccarvajall&hide_border=true)](https://github.com/danielaccarvajall)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=danielaccarvajall&label=Profile%20Views&color=e91e63&style=for-the-badge" alt="Profile Views" />
+</div>
 
-##  Connect with Me
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-carvajal-9a3035222/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielaccarvajall)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielacarolcarvajall@gmail.com)
+<div align="center">
+  <i>I'm open to new challenges, collaborations, and career opportunities! Let's connect and create something impactful! </i>
+</div>
 
-*I'm open to new challenges, collaborations, and career opportunities! Let's connect and create something impactful!* 
+
+
