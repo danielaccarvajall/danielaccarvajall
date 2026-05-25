@@ -68,17 +68,17 @@ I enjoy working at the intersection of:
 - Analyzed metabolic changes associated with imidacloprid exposure under controlled laboratory conditions.
 ---
 
-## Technical Skills
+## GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![PyMOL](https://img.shields.io/badge/PyMOL-73777B?style=for-the-badge&logo=PyMOL&logoColor=white)
+<p align="center">
 
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=danielaccarvajall&show_icons=true"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaccarvajall&layout=compact"/>
+
+</p>
 
 
 
