@@ -75,7 +75,7 @@ I enjoy working at the intersection of:
 <br>
 
 <div align="center">
-  <i>I'm open to new challenges, collaborations, and career opportunities! Let's connect and create something impactful! </i>
+  <i> Open to new challenges, collaborations, and opportunities to make an impact. Feel free to connect! </i>
 </div>
 
 <div align="center">
