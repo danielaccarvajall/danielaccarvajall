@@ -45,8 +45,7 @@ I enjoy working at the intersection of:
 ##  Research & Experience
 
 ### 💻 <kbd>SECURE COMPUTE RESEARCHER</kbd> | *University of Birmingham* 
-* Collaborated in a multidisciplinary team to analyze health and defence datasets using HPC, applying programming and data analysis skills.
-* Addressed security challenges in data-intensive environments, gaining practical experience in secure computing and problem-solving.
+* Worked with a team to analyze datasets on Baskerville, the University’s Tier 2 HPC supercomputer, developing problem-solving skills and practical experience in secure-computing concepts.
 
 ### 🐍 <kbd>RESEARCH ASSISTANT</kbd> | *University of Valle* 
 * Supported medical bioprospecting research projects focused on the discovery of novel anticancer agents derived from snake venom.
