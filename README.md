@@ -22,7 +22,7 @@ My background combines experimental biology, omics, and quantitative analysis, a
 
 I enjoy working at the intersection of:
 - 🧬 Omics data analysis
-- 📊 Statistical modelling
+- 📊 Statistical modeling
 - 🐍 Python and R
 - 🧪 Biological interpretation
 
@@ -44,6 +44,10 @@ I enjoy working at the intersection of:
 
 ##  Research & Experience
 
+### 🌱 <kbd>EEF Postgraduate Project Research Assistant</kbd> | *University of Birmingham* 
+* Conducted literature reviews on biomedical and healthcare sustainability topics, evaluating research design and evidence quality.
+* Developed interdisciplinary case studies and teaching resources for the College of Medicine and Health.
+
 ### 💻 <kbd>SECURE COMPUTE RESEARCHER</kbd> | *University of Birmingham* 
 * Worked with a team to analyze datasets on Baskerville, the University’s Tier 2 HPC supercomputer, developing problem-solving skills and practical experience in secure-computing concepts.
 
@@ -51,7 +55,7 @@ I enjoy working at the intersection of:
 * Supported medical bioprospecting research projects focused on the discovery of novel anticancer agents derived from snake venom.
 * Performed protein fractionation using liquid chromatography (LC), including mobile phase preparation, chromatographic runs, fraction collection, and sample preparation for downstream biological assays.
 * Conducted protein separation and quantification using electrophoresis and NanoDrop spectrophotometry, and supported in vitro assays in cancer cell lines (cytotoxicity, apoptosis, and cell migration).
-* Assisted in in vivo experimental models and participated in science outreach activities, engaging schools and rural communities on scientific research.
+* Assisted with in vivo experimental models and participated in science outreach activities, engaging schools and rural communities on scientific research.
 
 ### 🧪 <kbd>RESEARCH INTERN</kbd> | *New Granada Military University* 
 * Performed untargeted metabolomic profiling of plant samples using LC-MS, including sample preparation, solvent-based extraction, and extract processing.
