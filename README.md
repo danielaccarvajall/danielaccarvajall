@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Hi, I'm Daniela Carvajal 🧬💻</h1>
-  <h3><i> Biologist → Statistics → Bioinformatics MSc </i></h3>
+  <h3><i> Biology → Statistics → Bioinformatics MSc </i></h3>
   <p><b> Interested in computational biology, multi-omics, and data-driven health research.</b></p>
   
   <a href="https://www.linkedin.com/in/daniela-carvajal-9a3035222/" target="_blank">
