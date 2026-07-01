@@ -48,16 +48,16 @@ I enjoy working at the intersection of:
 * Conducted literature reviews on biomedical and healthcare sustainability topics, evaluating research design and evidence quality.
 * Developed interdisciplinary case studies and teaching resources for the College of Medicine and Health.
 
-### 💻 <kbd>SECURE COMPUTE RESEARCHER</kbd> | *University of Birmingham* 
+### 💻 <kbd>Secure Compute Researcher</kbd> | *University of Birmingham* 
 * Worked with a team to analyze datasets on Baskerville, the University’s Tier 2 HPC supercomputer, developing problem-solving skills and practical experience in secure-computing concepts.
 
-### 🐍 <kbd>RESEARCH ASSISTANT</kbd> | *University of Valle* 
+### 🐍 <kbd>Research Assistant</kbd> | *University of Valle* 
 * Supported medical bioprospecting research projects focused on the discovery of novel anticancer agents derived from snake venom.
 * Performed protein fractionation using liquid chromatography (LC), including mobile phase preparation, chromatographic runs, fraction collection, and sample preparation for downstream biological assays.
 * Conducted protein separation and quantification using electrophoresis and NanoDrop spectrophotometry, and supported in vitro assays in cancer cell lines (cytotoxicity, apoptosis, and cell migration).
 * Assisted with in vivo experimental models and participated in science outreach activities, engaging schools and rural communities on scientific research.
 
-### 🧪 <kbd>RESEARCH INTERN</kbd> | *New Granada Military University* 
+### 🧪 <kbd>Research Intern</kbd> | *New Granada Military University* 
 * Performed untargeted metabolomic profiling of plant samples using LC-MS, including sample preparation, solvent-based extraction, and extract processing.
 * Analyzed metabolic changes associated with imidacloprid exposure under controlled laboratory conditions.
 
