@@ -66,7 +66,7 @@ I enjoy working at the intersection of:
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielaccarvajall&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=danielaccarvajall&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
 <br>
