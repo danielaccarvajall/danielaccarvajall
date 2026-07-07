@@ -72,6 +72,11 @@ I enjoy working at the intersection of:
 <br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielaccarvajall&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=danielaccarvajall&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=danielaccarvajall&label=Profile%20Views&color=e91e63&style=for-the-badge" alt="Profile Views" />
 </div>
 
